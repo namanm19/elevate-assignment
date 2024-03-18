@@ -1,0 +1,19 @@
+.category-filter-wrapper {
+  display: flex;
+  flex-shrink: 1;
+}
+
+.filter-options {
+  background-color: rgb(39, 38, 38);
+  color: #ffffff;
+  padding: 10px;
+  font-size: 20px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.filter-option {
+  background-color: #ffffff;
+  color: #000000;
+}
